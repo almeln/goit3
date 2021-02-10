@@ -1,0 +1,11 @@
+:root {
+--dark-text: #212121;
+--colorful-text: #2196F3;
+--dark-logo: #000000;
+--light-text: #FFFFFF;
+--main-text: #757575;
+--light-text-op60: rgba(255, 255, 255, 0.6);
+--back-dark: #2F303A;
+--back-light: #F5F4FA;
+--back-white: #FFFFFF;
+}
